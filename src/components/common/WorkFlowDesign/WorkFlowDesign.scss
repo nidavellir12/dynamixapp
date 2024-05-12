@@ -1,0 +1,20 @@
+@import "../../../variables.scss";
+.workflow-design{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    .workflow-items-cnt{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 20px;
+        .workflow-item{
+            color: $dark-green;
+            font-weight: bold;
+            img{
+                width: 100px;
+                height: 80px;
+            }
+        }
+    }
+}

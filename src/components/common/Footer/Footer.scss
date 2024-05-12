@@ -1,0 +1,106 @@
+@import "../../../variables.scss";
+.footer-cnt{
+    .footer-title{
+        width: 100%;
+        min-height: 300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .footer-title-content{
+            width: 80%;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            .item-title{
+                h1{
+                    text-align: center;
+                }
+            }
+            .item-content{
+                text-align: center;
+                margin-top: 20px;
+                p{
+                    color: $dark-green;
+                    font-weight: 700;
+                    font-size: 14px;
+                }
+            }
+            .item-btn{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-top: 20px;
+                font-size: 18px;
+                button{
+                    background: none;
+                        background-color: $dark-green;
+                        border: none;
+                        padding: 10px 35px;
+                        font: inherit;
+                        cursor: pointer;
+                        outline: inherit;
+                        color: $light-white;
+                        border-radius: 20px;
+                }
+            }
+        }
+    }
+    .footer-content{
+        width: 100%;
+        min-height: 450px;
+        background-color: $dark-green;
+        color: $light-white;
+        display: flex;
+        .footer-address{
+            width: 25%;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: space-evenly;
+            .address-list{
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: center;
+                margin-left: 20px;
+                span{
+                    margin-right: 5px;
+                }
+                div:first-child{
+                    margin-bottom: 10px;
+                }
+            }
+            .contact-list{
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: center;
+                margin-left: 20px;
+                span{
+                    margin-right: 5px;
+                }
+                div:first-child{
+                    margin-bottom: 10px;
+                }
+            }
+        }
+        .footer-menu{
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 50px;
+            .menu-content{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-top: 20px;
+                font-size: 14px;
+                div{
+                    margin-top: 20px;
+                }
+            }
+        }
+
+    }
+}

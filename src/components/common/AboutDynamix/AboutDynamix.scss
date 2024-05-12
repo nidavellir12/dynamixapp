@@ -1,0 +1,42 @@
+@import "../../../variables.scss";
+.dynamix-cnt{
+    display: flex;
+    flex-direction: column;
+    .dynamix-header{
+        text-align: center;
+    }
+    .dynamix-items{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        .dynamix-content{
+            width: 33%;
+            min-height: 550px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            .service-item{
+                width: 250px;
+                margin-bottom: 130px;
+                .item-title{
+                    font-size: 16px;
+                    font-weight: bold;
+                    color: $light-blue;
+                    margin-bottom: 20px;
+                }
+                .item-content{
+                    font-size: 15px;
+                    color: $light-blue;
+                }
+            }
+        }
+        .dynamix-image{
+           width: 33%;
+           min-height: 550px;
+           img{
+            width: 100%;
+            height: 100%;
+           }
+        }
+    }
+}
