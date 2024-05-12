@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/dynamixapp/static/css/main.6911c0b5.css",
+    "main.js": "/dynamixapp/static/js/main.36941c42.js",
+    "static/media/DigitalPrinting.png": "/dynamixapp/static/media/DigitalPrinting.bc6e5af7f82188ae629b.png",
+    "static/media/RapidPrototyping.png": "/dynamixapp/static/media/RapidPrototyping.e334e27d57037b537ae6.png",
+    "static/media/headerImage.png": "/dynamixapp/static/media/headerImage.50058cbd908fc5087ace.png",
+    "static/media/CNCMaching.png": "/dynamixapp/static/media/CNCMaching.33c2d8977047bc5f9318.png",
+    "static/media/Delivery.png": "/dynamixapp/static/media/Delivery.30eff16701fada2ab228.png",
+    "static/media/Title.png": "/dynamixapp/static/media/Title.42ba3f0b92bee0d9422b.png",
+    "static/media/resourcesimage2.png": "/dynamixapp/static/media/resourcesimage2.a5eebe31ba07e70fd8bc.png",
+    "static/media/resourcesimage1.png": "/dynamixapp/static/media/resourcesimage1.ce66f0dcdb3c625e1086.png",
+    "static/media/resourcesimage3.png": "/dynamixapp/static/media/resourcesimage3.4f905a60eb27686ca3fc.png",
+    "static/media/resourcesimage4.png": "/dynamixapp/static/media/resourcesimage4.7bce554042e820a37383.png",
+    "static/media/QualityCheck.png": "/dynamixapp/static/media/QualityCheck.c5de595fc9b8429adde8.png",
+    "static/media/Manufacturing.png": "/dynamixapp/static/media/Manufacturing.b1c27c8b80ce44a83056.png",
+    "static/media/upload-file.png": "/dynamixapp/static/media/upload-file.402a1ba81a224fde5f96.png",
+    "static/media/OnlineQuotation.png": "/dynamixapp/static/media/OnlineQuotation.d9d6279bd00c6493d44f.png",
+    "static/media/slick.svg": "/dynamixapp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/dynamixapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/dynamixapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/dynamixapp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/dynamixapp/index.html",
+    "main.6911c0b5.css.map": "/dynamixapp/static/css/main.6911c0b5.css.map",
+    "main.36941c42.js.map": "/dynamixapp/static/js/main.36941c42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6911c0b5.css",
+    "static/js/main.36941c42.js"
+  ]
+}
