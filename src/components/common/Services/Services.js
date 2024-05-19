@@ -1,6 +1,5 @@
 import React from 'react'
 import './Services.scss'
-import image from '../../../assets/images/image.png'
 import CNCMaching from '../../../assets/images/CNCMaching.png'
 import RapidPrototyping from '../../../assets/images/RapidPrototyping.png'
 import DigitalPrinting from '../../../assets/images/DigitalPrinting.png'
@@ -11,20 +10,17 @@ import "slick-carousel/slick/slick-theme.css";
 const Services = () => {
     const ServicesArray = [
         {
-            content: "Xometry has always given us exactly what we needed. We’ve received parts with holes in the right places, with the right finish, and on time. Their user-friendly website means faster turnaround.",
-            name: "Jackson Siu",
+            content: "From complex designs to simple geometries, our CNC milling provides precision with ease by utilizing advanced 3-axis and 5-axis milling processes. Whether it's prototyping or production, Dynamix delivers a perfect product every time.",
             title: "CNC Machining",
             image: CNCMaching
         },
         {
-            content: "Xometry delivers professionalism and ease. They take care of fulfillment so I don't need to juggle or manage suppliers. We buy the quote, and Xometry takes care of the rest.",
-            name: "Ryan Lambert",
+            content: "Dynamix accelerates your product development from concept to prototype in a matter of hours or days. Our fast-prototyping services allow you to develop and refine your designs quickly and cost-effectively, ensuring that your ideas come to life with precision and efficiency.",
             title: "Rapid Prototyping",
             image: RapidPrototyping
         },
         {
-            content: "I have been impressed with how forthcoming and responsive Xometry has been in all of our communications. Your prices have won you a lot of friends here at Thermaco.",
-            name: "Bruce Kyles",
+            content: "Whether it's promotional materials or product branding, Dynamix digital printing services ensure your message stands out with clarity and conviction.",
             title: "Digital Printing",
             image: DigitalPrinting
         },

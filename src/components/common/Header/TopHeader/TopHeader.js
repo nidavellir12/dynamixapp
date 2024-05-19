@@ -54,11 +54,14 @@ const TopHeader = () => {
                         </Link></li>
                 </ul>
             </div>
-            {/* <div className='top-header-elements'>
-                <div className='login-btn'>
-                    <button>Log In</button>
+            <div className='top-header-elements'>
+                <div className='quote-btn'>
+                    <button>Get A Quote</button>
                 </div>
-            </div> */}
+                {/* <div className='login-btn'>
+                    <button>Log In</button>
+                </div> */}
+            </div>
         </div>
     </div>
 }

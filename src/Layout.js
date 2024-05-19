@@ -12,9 +12,8 @@ const Layout = () =>{
     return <div>
         <Header/>
         <HomePage/>
-        <WorkFlow/>
-        <WorkFlowDesign/>
         <Services/>
+        <WorkFlowDesign/>
         <AboutUs/>
         <AboutDynamix/>
         <Footer/>

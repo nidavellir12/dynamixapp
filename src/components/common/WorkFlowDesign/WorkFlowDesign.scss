@@ -1,19 +1,26 @@
 @import "../../../variables.scss";
 .workflow-design{
-    width: 80%;
+    width: 95%;
     margin: auto;
     text-align: center;
+    margin-top: 150px;
     .workflow-items-cnt{
         display: flex;
         align-items: center;
         justify-content: space-between;
         margin-top: 20px;
         .workflow-item{
+            width: 250px;
             color: $dark-green;
             font-weight: bold;
             img{
                 width: 100px;
                 height: 80px;
+            }
+            p{
+                font-size: 14px;
+                font-weight: 300;
+                margin-top: 5px;
             }
         }
     }
