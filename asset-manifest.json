@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/dynamixapp/static/css/main.6911c0b5.css",
-    "main.js": "/dynamixapp/static/js/main.36941c42.js",
+    "main.css": "/dynamixapp/static/css/main.b4606ca1.css",
+    "main.js": "/dynamixapp/static/js/main.1b76ef6d.js",
     "static/media/DigitalPrinting.png": "/dynamixapp/static/media/DigitalPrinting.bc6e5af7f82188ae629b.png",
     "static/media/RapidPrototyping.png": "/dynamixapp/static/media/RapidPrototyping.e334e27d57037b537ae6.png",
     "static/media/headerImage.png": "/dynamixapp/static/media/headerImage.50058cbd908fc5087ace.png",
     "static/media/CNCMaching.png": "/dynamixapp/static/media/CNCMaching.33c2d8977047bc5f9318.png",
-    "static/media/Delivery.png": "/dynamixapp/static/media/Delivery.30eff16701fada2ab228.png",
     "static/media/Title.png": "/dynamixapp/static/media/Title.42ba3f0b92bee0d9422b.png",
     "static/media/resourcesimage2.png": "/dynamixapp/static/media/resourcesimage2.a5eebe31ba07e70fd8bc.png",
     "static/media/resourcesimage1.png": "/dynamixapp/static/media/resourcesimage1.ce66f0dcdb3c625e1086.png",
@@ -20,12 +19,13 @@
     "static/media/slick.eot": "/dynamixapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/dynamixapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/dynamixapp/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Truck.svg": "/dynamixapp/static/media/Truck.e7024edcd9ebaeb5a49d07f8b51645a8.svg",
     "index.html": "/dynamixapp/index.html",
-    "main.6911c0b5.css.map": "/dynamixapp/static/css/main.6911c0b5.css.map",
-    "main.36941c42.js.map": "/dynamixapp/static/js/main.36941c42.js.map"
+    "main.b4606ca1.css.map": "/dynamixapp/static/css/main.b4606ca1.css.map",
+    "main.1b76ef6d.js.map": "/dynamixapp/static/js/main.1b76ef6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6911c0b5.css",
-    "static/js/main.36941c42.js"
+    "static/css/main.b4606ca1.css",
+    "static/js/main.1b76ef6d.js"
   ]
 }
